@@ -1,0 +1,6 @@
+https://github.com/oren/alpine-nginx
+https://github.com/debuggerboy/docker-phpmyadmin-alpine
+https://github.com/dydx/alpine-nginx-phpfpm
+https://wiki.alpinelinux.org/wiki/Sysctl.conf
+http://www.cyberciti.biz/faq/linux-unix-nginx-too-many-open-files/
+https://www.linode.com/docs/websites/nginx/configure-nginx-for-optimized-performance
