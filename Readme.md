@@ -29,7 +29,7 @@ docker-nginx-lb is very easy to install and deploy in a Docker container.
 By default, the Docker will expose port 80, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.
 
 ```sh
-docker run --name nlb01 -d -p 80:80 --restart="always" trystack/docker-nginx-lb:latest
+docker run --name nlb01 -d -p 80:80 --restart="always" trydock/docker-nginx-lb:latest
 ```
 
 This will launch the 'docker-nginx-lb'.
