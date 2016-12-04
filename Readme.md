@@ -9,6 +9,12 @@ a stupid nginx load balancer to be used with docker
 Todo:
   - improvements and clean up
 
+## status
+
+[![](https://images.microbadger.com/badges/image/trydock/docker-nginx-lb.svg)](https://microbadger.com/images/trydock/docker-nginx-lb "Get your own image badge on microbadger.com")
+
+[![](https://images.microbadger.com/badges/version/trydock/docker-nginx-lb.svg)](https://microbadger.com/images/trydock/docker-nginx-lb "Get your own version badge on microbadger.com")
+
 ## warning
 
 > Not Production Ready, STUPID PIECE OF CODE
